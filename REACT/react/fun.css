@@ -1,0 +1,19 @@
+.body{
+    color: white;
+    margin-left: 30px;
+    margin-top: 90px;
+
+}
+ul{
+    list-style: none;
+    line-height: 50px;
+    font-size: 30px;
+}
+ul li::before{
+    content: "\2022";
+    color: aqua;
+    margin-right: 30px;
+}
+#fun{
+    font-size: 60px;
+}

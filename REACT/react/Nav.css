@@ -1,0 +1,22 @@
+img {
+    height: 10vmin;
+    margin-top: 40px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(18, 22, 22);
+} 
+
+.facts{
+    display: flex;
+    color: skyblue;
+    font-size: 30px;
+
+}
+.react{
+    color: white;
+    margin-right: 60px;
+    font-size: 30px;
+    margin-top: 50px;
+}
